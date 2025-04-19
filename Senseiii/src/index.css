@@ -60,7 +60,7 @@ html {
   font-family: 'Anton', sans-serif;
   font-weight: bold;
   letter-spacing: 2px;
-  color: white;
+  color: red;
   transform: skew(-10deg); /* Fake italic */
   text-transform: uppercase;
 }
